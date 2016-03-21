@@ -1,1 +1,2 @@
 https://github.com/hikiwi/test.git
+https://github.com/hikiwi/test.git
